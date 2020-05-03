@@ -1,0 +1,7 @@
+https://kipalog.com/posts/Ban-da-hieu-ro-ve-git-flow-chua
+
+https://nvie.com/posts/a-successful-git-branching-model/
+
+https://danielkummer.github.io/git-flow-cheatsheet/index.vi_VN.html
+
+https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
